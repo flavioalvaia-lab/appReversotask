@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J74Ru8ZYIqmqcQjBl40QjD/L8+/lM8w1dInuotGzm45jNSvaCswZ+Qa1hgZVpSSV9WgXbzvJ5PL6qMJtRGzeYA==",
+  "dgSpecHash": "tLi+UyO2MdQ/yQZqlYJvAPzlfRtxiCSasJKK9CJD7pcMIu9/72/fCFeXv2wS6d7hKhJyoWTKr9W1DCvWwnStOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manha.cetafaju.LABFIES\\Downloads\\appReversotask\\appReversotask\\appReversotask.csproj",
+  "projectFilePath": "C:\\Users\\manha.cetafaju.LABFIES\\Documents\\GitHub\\appReversotask\\appReversotask\\appReversotask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manha.cetafaju.LABFIES\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\manha.cetafaju.LABFIES\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
